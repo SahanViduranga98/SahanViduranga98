@@ -4,7 +4,14 @@ Hi, I'm Sahan Viduranga!
 </h1>
 <img src="https://gpvc.arturio.dev/SahanViduranga98" alt="Profile views" align='right'/>
 <br/>
-
+<div id="badges">
+  <a href="www.linkedin.com/in/sahan-viduranga">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Tele.+Engineer;Firmware+Developer;Embedded+Software+Engineer;Always+learning+new+things&center=true&width=380&height=45">
@@ -29,11 +36,4 @@ I-am-SahanViduranga98@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
-<div id="badges">
-  <a href="www.linkedin.com/in/sahan-viduranga">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
