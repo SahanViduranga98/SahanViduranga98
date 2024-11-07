@@ -16,16 +16,16 @@ Hi, I'm Sahan Viduranga!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-SahanViduranga98@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 I am a self taught Firmware Developer and a Machine Learning Developer
+📚 I have a B.Sc Hons degree in Electronic & Telecommunication  Engineering from the University of Moratuwa, Sri Lanka
+📝 I have a strong interest in Robotics, Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
+🌟 Main languages: Python, C++, C
+🚩 Interested in Robotics with  image processign and machine larning.
+💖 In a complicated relationship with Robotics
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
