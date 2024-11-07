@@ -53,12 +53,10 @@ I-am-SahanViduranga98@github
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SahanViduranga98&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanViduranga98&theme=dark&hide_border=true"/>
 </p>
-<img align="left" src="https://github.com/SahanViduranga98/SahanViduranga98/blob/main/profile_image.png" alt="Profile Image" width="320" />
-<img src="https://komarev.com/ghpvc/?username=SahanViduranga98&style=flat-square&color=blue" alt=""/>
+
 
 ---
 
