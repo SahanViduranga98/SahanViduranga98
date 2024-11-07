@@ -45,7 +45,7 @@ I-am-SahanViduranga98@github
 ---
 
 
-### ⚙️: Github Analytics :
+### ⚙️ Github Analytics :
 
 <p align="center">
   <a href="https://github.com/SahanViduranga98">
