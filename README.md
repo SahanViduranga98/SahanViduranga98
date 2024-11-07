@@ -26,7 +26,7 @@ Hi, I'm Sahan Viduranga!
 
 ### :man_technologist: About Me :
 <hr>
-```
+
 I-am-SahanViduranga98@github
 -------------------------
 
@@ -39,9 +39,9 @@ I-am-SahanViduranga98@github
 🚩 Interested in Robotics with  image processign and machine larning.
 💖 In a complicated relationship with Robotics
 🎵 Love metal, lofi, jazz and soft music
-```
+
 <hr>
----
+
 ### :man_technologist: About Me :
 
 <p align="center">
