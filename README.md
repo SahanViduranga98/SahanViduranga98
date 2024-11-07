@@ -19,21 +19,7 @@ Hi, I'm Sahan Viduranga!
     <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Tele.+Engineer;Firmware+Developer;Embedded+Software+Engineer;Always+learning+new+things&center=true&width=380&height=45">
   </a>
 </p>
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/SahanViduranga98">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SahanViduranga98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/SahanViduranga98">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SahanViduranga98&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-<img align="left" src="https://github.com/SahanViduranga98/SahanViduranga98/blob/main/profile_image.png" alt="Profile Image" width="320" />
 
 <hr>
 
@@ -51,4 +37,18 @@ I-am-SahanViduranga98@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+  <a href="https://github.com/SahanViduranga98">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SahanViduranga98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/SahanViduranga98">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SahanViduranga98&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanViduranga98&theme=dark&hide_border=true"/>
+</p>
+<img align="left" src="https://github.com/SahanViduranga98/SahanViduranga98/blob/main/profile_image.png" alt="Profile Image" width="320" />
