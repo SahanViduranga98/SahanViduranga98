@@ -11,6 +11,8 @@ Hi, I'm Sahan Viduranga!
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:sahanvidurangassc767@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
