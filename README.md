@@ -42,7 +42,7 @@ I-am-SahanViduranga98@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
-### ⚙️ &nbsp;GitHub Analytics
+### :gear:GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/SahanViduranga98">
