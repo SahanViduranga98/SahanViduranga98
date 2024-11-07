@@ -41,7 +41,7 @@ I-am-SahanViduranga98@github
 💖 In a complicated relationship with Robotics
 🎵 Love metal, lofi, jazz and soft music
 ```
-<hr>
+</hr>
 ---
 ### :man_technologist: About Me :
 
