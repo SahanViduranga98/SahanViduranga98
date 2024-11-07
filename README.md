@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi, I'm Sahan Viduranga!
  <iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="480" height="442" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <img src="https://gpvc.arturio.dev/SahanViduranga98" alt="Profile views" align='right'/>
 <br/>
