@@ -26,6 +26,9 @@ Hi, I'm Sahan Viduranga!
 ```
 I-am-SahanViduranga98@github
 -------------------------
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 💻 I am a self taught Firmware Developer and a Machine Learning Developer
 📚 I have a B.Sc Hons degree in Electronic & Telecommunication  Engineering from the University of Moratuwa, Sri Lanka
 📝 I have a strong interest in Robotics, Data Science and Artificial Intelligence
