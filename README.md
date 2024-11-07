@@ -2,7 +2,7 @@
 Hi, I'm Sahan Viduranga!
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </h1>
-<img src="https://komarev.com/ghpvc/?SahanViduranga98&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SahanViduranga98&style=flat-square&color=blue" alt=""/>
 <br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sahan-viduranga">
