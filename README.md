@@ -42,6 +42,7 @@ I-am-SahanViduranga98@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
+---
 ### :man_technologist: About Me :
 
 <p align="center">
